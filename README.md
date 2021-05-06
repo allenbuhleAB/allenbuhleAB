@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @allenbuhleAB
+- 👋 Hi, I’m Buhle Allen
 - 👀 I’m interested in Web and Application design and development
 - 🌱 I’m currently learning learning python and I know Java, C++,HTML and CSS
 - 💞️ I’m looking to collaborate on Web and Application projects
