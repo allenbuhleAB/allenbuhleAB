@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @allenbuhleAB
 - 👀 I’m interested in Web and Application design and development
-- 🌱 I’m currently learning learning python and knows Java, C++,HTML and CSS
+- 🌱 I’m currently learning learning python and I know Java, C++,HTML and CSS
 - 💞️ I’m looking to collaborate on Web and Application projects
 - 📫 How to reach me 
 INSTAGRAM: @allenbuhle
